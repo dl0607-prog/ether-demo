@@ -5,5 +5,7 @@
     "engineer": "vscode-lm",
     "reviewer": "vscode-lm",
     "debug": "vscode-lm"
-  }
+  },
+  "ether.gitAuthorName": "dl0607-prog",
+  "ether.gitAuthorEmail": "dl0607-prog@users.noreply.github.com"
 }
