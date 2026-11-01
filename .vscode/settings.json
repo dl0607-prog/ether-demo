@@ -1,0 +1,9 @@
+{
+  "ether.backend": "vscode-lm",
+  "ether.roleBackends": {
+    "architect": "vscode-lm",
+    "engineer": "vscode-lm",
+    "reviewer": "vscode-lm",
+    "debug": "vscode-lm"
+  }
+}
